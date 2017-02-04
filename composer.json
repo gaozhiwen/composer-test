@@ -1,15 +1,15 @@
 {
   "name": "wen/composer-test",
-  "description": "php web util common util class",
+  "description": "composer-test",
   "keywords": [
     "RSA util",
     "web util",
     "php web 工具类"
   ],
-  "license": "MIT",
+  "license": "wen",
   "authors": [
     {
-      "name": "wem",
+      "name": "wen",
       "email": "1165737969@qq.com"
     }
   ],
